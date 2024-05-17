@@ -1314,7 +1314,7 @@ global.dfail = (type, m, conn) => {
         private: 'Perintah ini hanya dapat digunakan di Chat Pribadi!',
         admin: 'Perintah ini hanya untuk *Admin* grup!',
         botAdmin: 'Jadikan bot sebagai *Admin* untuk menggunakan perintah ini!',
-        unreg: '*Kamu Belum Bisa Menggunakan Fitur ini Harap Melakukan Pendaftaran Agar Bisa Menggunakannya!*\n\n`contoh pendaftarannya:`\n.daftar jhnspntx.18\n.daftar nama.umur',
+        unreg: '*Kamu Belum Bisa Menggunakan Fitur ini Harap Melakukan Pendaftaran Agar Bisa Menggunakannya!*\n\n`contoh pendaftarannya:`\n.daftar xeon.18\n.daftar nama.umur',
         nsfw: 'Fitur Nsfw Belum DI aktifkan',
         restrict: 'Fitur ini di *disable*!'
     }[type]
@@ -1329,7 +1329,7 @@ global.dfail = (type, m, conn) => {
             externalAdReply: {
                 title: "Access Denied",
                 body: "",
-                sourceUrl: "https://chat.whatsapp.com/JFzipOMAz155jOldBdqUZy",
+                sourceUrl: "https://chat.whatsapp.com/BS2DeBDNV6mJIGziFU4aJv",
                 mediaType: 1,
                 thumbnailUrl: "https://i.pinimg.com/236x/d1/59/9c/d1599c389023f83313cd75286e70da0f.jpg",
                 renderLargerThumbnail: true,
